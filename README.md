@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Chinmay 👋
 
+![MySign](https://github.com/cbhatawdekar/cbhatawdekar/assets/12450888/060abdce-e3d1-4e10-b523-38c9c4e95051)
+
+If not yet clear from the above , my mantra is to “Keep it simple and automate everything.” By prioritizing automation, I streamline processes and mitigate the potential for human error. Nonetheless, should human error occur, I derive great satisfaction from troubleshooting and resolving issues, especially those that have proven challenging for other engineers. My out-of-the-box thinking often leads me to unconventional yet effective solutions, which leaves me with a deep sense of satisfaction that's hard to put into words.
 <!--
 **cbhatawdekar/cbhatawdekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
